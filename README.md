@@ -11,3 +11,5 @@
 [golang fmt格式占位符](./fmt格式占位符.md)
 
 [理解Go语言的nil](https://studygolang.com/articles/9506)
+
+[Go数组与切片](https://studygolang.com/articles/27555)
