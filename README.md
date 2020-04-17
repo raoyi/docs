@@ -23,3 +23,7 @@
 [理解Go语言的nil](https://studygolang.com/articles/9506)
 
 [Go数组与切片](https://studygolang.com/articles/27555)
+
+https://zhuanlan.zhihu.com/p/45432367
+
+https://zhuanlan.zhihu.com/p/26262151
